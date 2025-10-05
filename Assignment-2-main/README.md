@@ -78,6 +78,8 @@ The results show a near-linear increase in time relative to `n log n`, confirmin
 
  **[My Report.pdf](docs%2FMy%20Report.pdf)**
 
+**[Individual Report.pdf](docs%2FIndividual%20Report.pdf)**
+
 The accompanying report includes:
 - Algorithm overview
 - Theoretical complexity derivation
